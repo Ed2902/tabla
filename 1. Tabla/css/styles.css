@@ -23,6 +23,8 @@ thead,th,tr,td{
 }
 
 .pie{
-    background-color:#bb1f1f;
+    background-color:#a83e3e;
     font-weight: 900; 
+    font-size: 14px;
+    text-align: center;
 }
