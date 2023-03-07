@@ -1,0 +1,28 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    padding: 10px;
+}
+
+.table{
+    margin: 0 auto; /* el «0» indica que los margenes superior e inferior sean cero y 
+    el «auto» para que el espacio que sobre del ancho lo reparta en dos partes iguales 
+    y así la capa quede centrada. */
+    border: 4px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+thead,th,tr,td{
+    border: 2px solid black;
+}
+
+.datos{
+    background-color: #8685d8;
+
+}
+
+.pie{
+    background-color:#bb1f1f;
+    font-weight: 900; 
+}
